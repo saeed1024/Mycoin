@@ -120,11 +120,11 @@ A portion of transaction fees (30%) is burned, creating a deflationary pressure 
 
 ### 4.2 Future Development
 
-- **Q4 2023**: Mainnet launch with basic features
-- **Q1 2024**: DeFi platform integration and developer tools
-- **Q2 2024**: Mobile wallet applications with improved UX
-- **Q3 2024**: Cross-chain bridges and interoperability solutions
-- **Q4 2024**: Layer-2 scaling solutions for micro-transactions
+- **Q2 2025**: Mainnet launch with basic features
+- **Q3 2025**: DeFi platform integration and developer tools
+- **Q4 2025**: Mobile wallet applications with improved UX
+- **Q1 2026**: Cross-chain bridges and interoperability solutions
+- **Q2 2026**: Layer-2 scaling solutions for micro-transactions
 
 ## 5. Security Considerations
 
